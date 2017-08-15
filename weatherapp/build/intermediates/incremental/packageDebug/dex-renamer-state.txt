@@ -1,0 +1,7 @@
+#Tue Aug 15 20:35:40 CST 2017
+base.0=E\:\\developer\\hellokotlin\\KotlinForAndroid\\weatherapp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4d7b4990b3efdbaf024a788753a326058626607c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\developer\\hellokotlin\\KotlinForAndroid\\weatherapp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7b02807d976de9a969d4f1c56449b44dc3aade5\\classes.dex
+base.1=E\:\\developer\\hellokotlin\\KotlinForAndroid\\weatherapp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7b02807d976de9a969d4f1c56449b44dc3aade5
+file.0=E\:\\developer\\hellokotlin\\KotlinForAndroid\\weatherapp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4d7b4990b3efdbaf024a788753a326058626607c\\classes.dex
